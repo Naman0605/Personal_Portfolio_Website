@@ -1,9 +1,9 @@
 import resume from '../assets/pdf/resume.pdf'
 
 export const headerData = {
-    name: 'Jane Doe',
-    title: "Web Developer",
-    desciption:"There wasn't a bird in the sky, but that was not what caught her attention. It was the clouds. The deep green that isn't the color of clouds, but came with these. She knew what was coming and she hoped she was prepared. ",
+    name: 'Naman Khandelwal',
+    title: "Innovative Tech Enthusiast & Aspiring Developer",
+    desciption:"Exploring the intersection of technology and creativity! 🚀 Crafting seamless and dynamic digital experiences, diving deep into the world of coding, and transforming ideas into reality with a splash of innovation! 💻🌟 Let's build the future, one line of code at a time!",
     image: 'https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/landingImg.png',
     resumePdf: resume
 }

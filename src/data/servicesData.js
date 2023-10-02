@@ -7,11 +7,11 @@ import { FaInternetExplorer,  FaChalkboardTeacher, FaCameraRetro, FaPinterest, F
  
 
 export const servicesData = [
-    // {
-    //     id: 1,
-    //     title: 'Marketing',
-    //     icon: <BiShoppingBag/>
-    // },
+    {
+        id: 1,
+        title: 'Marketing',
+        icon: <BiShoppingBag/>
+    },
     {
         id: 2,
         title: 'Content Writing',
@@ -19,7 +19,7 @@ export const servicesData = [
     },
     {
         id: 3,
-        title: 'Email Marketing',
+        title: 'Web Development',
         icon: <AiOutlineMail />
     },
     // {
@@ -38,21 +38,21 @@ export const servicesData = [
         title: 'Web Design',
         icon: <BsCodeSlash />
     },
-    {
-        id: 7,
-        title: 'Photography',
-        icon: <FaCameraRetro />
-    },
+    // {
+    //     id: 7,
+    //     title: 'Photography',
+    //     icon: <FaCameraRetro />
+    // },
     // {
     //     id: 8,
     //     title: 'Pinterest Virtual Assistant',
     //     icon: <FaPinterest />
     // }, 
-    {
-        id: 9,
-        title: 'Video Editing',
-        icon: <FaVideo />
-    },
+    // {
+    //     id: 9,
+    //     title: 'Video Editing',
+    //     icon: <FaVideo />
+    // },
     // {
     //     id: 10,
     //     title: 'Data Entry', 
@@ -60,7 +60,7 @@ export const servicesData = [
     // },
     {
         id: 11,
-        title: 'Ebook Writing',
+        title: 'Software Engineering',
         icon: <FaTabletAlt />
     },
     // {
@@ -68,11 +68,11 @@ export const servicesData = [
     //     title: 'Audio Transcription',
     //     icon: <AiFillAudio />
     // },
-    {
-        id: 13,
-        title: 'Blog Posting',
-        icon: <FaRegNewspaper />
-    },
+    // {
+    //     id: 13,
+    //     title: 'Blog Posting',
+    //     icon: <FaRegNewspaper />
+    // },
 
 ]
 
